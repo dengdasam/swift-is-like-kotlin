@@ -36,15 +36,12 @@ val myConstant = 42
 
 #### Swift
 
-Swift使用 “let” 关键字
-
 ```Swift
 let explicitDouble: Double = 70
 ```
 
 #### Kotlin
 
-Kotlin使用 “val” 关键字
 
 ```Kotlin
 val explicitDouble: Double = 70.0
